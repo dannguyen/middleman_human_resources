@@ -1,0 +1,48 @@
+meta:
+  date_entered: # String
+  deadline: # Optional, Date as a String
+  url:    # String; where they can go for the full info on the job and apply
+  contact: # optional, if the :url has everything
+    name: # String
+    email: # String
+
+employer: 
+  name: # String
+  homepage: # String
+  domains: # optional array
+  # put the web domains that you want this job to be associated with...
+  # for example, if the job is with USA Today, but operated by 
+
+position:
+  title:  # String, required
+  department: # String; e.g. "Interactive News", "Data Science Dept."
+  type: # String, e.g. "Full-time", "Part time", "Internship"  
+  duration: # optional
+    start:
+    end:
+    
+  remote: # String; assumed to be "No" if not included
+
+location: # String or Array
+
+experience:
+  description: # String, optional; a short description of what this candidate should have been doing
+  years: # Integer, optional; the minimum years in doing the above
+  skills: # an array of specific key terms
+    - name: # String, required; "Drupal", "PHP", "HTML"...do not combine terms, e.g. "HTML/CSS" and "PHP (Drupal)"
+      years: # Integer, optional; Only place the *minimum* years, or nothing at all
+      level: # String, optional; "Expert", "Strong", "Proficient", "Basic"
+      description: # String, optional
+
+compensation:
+  salary: # String, optional; representing *money*, not vague terms, e.g.: "$30,000", "400€ - 500€"
+  health_care: # String, optional
+  vacation: # String, optional
+  leave: # String, optional
+
+keywords: # Array
+    - # String, expected to be a broad term, such as "front-end", and not specific, like "PHP" or "Drupal"
+
+blurb: # String, a short summary of just a couple sentences
+description: # String, will be rendered as Markdown. Feel free to go wild here.
+

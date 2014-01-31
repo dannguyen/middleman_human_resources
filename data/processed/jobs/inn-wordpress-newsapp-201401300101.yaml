@@ -1,0 +1,62 @@
+meta:
+  date_entered: '2014-01-30'
+  url: 'http://investigativenewsnetwork.org/about/jobs/wordpress-developer/'
+
+employer: 
+  name: 'Investigative News Network'
+  homepage: 'http://investigativenewsnetwork.org'
+
+position: 
+  title: 'Web/Application Developer (WordPress focus)'
+  type: 'Full-time'
+  remote: "Yes"
+
+location:
+  - 'Los Angeles, LA'
+  - 'Columbus, OH'
+
+experience: 
+  years: 3
+  description: "3-5+ years web/mobile development, deployment and support, college degree in computer science or another relevant field preferred (but not required)"
+  skills:
+    - name: "WordPress"
+      level: Expert
+    - name: "CSS"
+      level: Strong
+    - name: "HTML"
+      level: Strong
+    - name: "PHP"
+      level: Expert
+    - name: "MySQL"
+      level: Expert
+
+blurb: "A hosted WordPress platform for member organizations called Project Largo."
+keywords:
+  - "open-source"
+  - "CMS"
+  
+description: |
+  ## Job Introduction
+
+  Can you take an API feed and turn it into a compelling gadget which will get the whole country talking?
+
+  Trinity Mirror's pioneering data unit is looking for a front-end developer, with some back-end experience, to help it take the next step in helping shape the future of journalism.
+
+
+  ## Role Responsibility
+
+  You will be able to build tool and gadgets for use across the Trinity Mirror (Regionals) network – including all of the biggest brands in British regional journalism.
+
+  You will be able to create tools which automatically grab the latest data and use them to create interactive, dynamically-updated charts, maps and gadgets across a huge range of subjects – everything from crime to football.
+
+  The main bulk of this will involve creating visualisations from publicly available data feeds but you will also be expected to build databases, requiring SQL skills.
+
+  ## The Ideal Candidate
+
+  The successful candidate will have a thorough knowledge of scraping techniques, the ability to manage a database using SQL and will have significant skills in JavaScript, JSON, XML feeds and PHP coding experience would be highly beneficial.
+
+  To be considered for this position you should be able to demonstrate a level of proficiency with Javascript, PHP and/ or Python, database manipulation & administration and HTML/ CSS.
+
+  If you feel that you have the desired skills and experience and want to work for one of the UK's largest multimedia publishers then please apply now with your original CV, we would love to hear from you.
+
+

@@ -1,0 +1,54 @@
+meta:
+  date_entered: "2014-01-06"
+  contact:
+    name: "Brian Boyer"
+    email: "bboyer@npr.org"
+
+employer: 
+  name: NPR
+  homepage: "http://www.npr.org"
+
+position: 
+  type: "Full-time"
+  title:  "News Applications Developer"
+  department: "Visuals Team"
+  url: "http://blog.apps.npr.org/2014/01/06/we-are-hiring.html"  
+
+location: "Washington, DC"
+
+experience:
+  skills:
+    - name: JavaScript
+      level: Expert
+      description: "Functional programming for the web"
+    - name: Multimedia
+    - name: Testing
+
+blurb: "Love to code? Want to use your skills to make the world a better place?"
+
+keywords:
+  - "agile-development"
+  - "open-source"
+  - "news-applications"
+  - "newsroom"
+
+description: |
+  The visuals team (formerly known as news applications) is a crew of developers, designers, photojournalists and videographers in the newsroom at NPR headquarters in sunny Washington, DC — and we're hiring.
+
+  We work closely with editors and reporters to create data-driven news applications (Playgrounds For Everyone), fun and informative websites (NPR's Book Concierge), web-native documentaries (Planet Money Makes A T-shirt), and charts and maps and videos and pictures and lots of things in-between.
+
+  ### We believe strongly in…
+
+  - User-centered design
+  - Agile software development
+  - Open-source software, and being transparent in our methods
+  
+  ### You must have…
+  - Experience making things for the web (We've got a way we like to do things, but we love to meet folks with new talents!)
+  - Attention to detail and love for making things
+  - A genuine and friendly disposition
+
+  ### Bonus points for…
+  - An uncontrollable urge to write code to test your code
+  - Love for making audio and video experiences that are of the web, not just on the web
+  - Deep knowledge of Javascript and functional programming for the web

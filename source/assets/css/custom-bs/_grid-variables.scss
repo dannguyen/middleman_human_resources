@@ -1,0 +1,18 @@
+
+
+// Container sizes
+// --------------------------------------------------
+
+$grid-gutter-width: 30px;
+// Small screen / tablet
+$container-tablet:             ((720px + $grid-gutter-width)) !default;
+$container-sm:                 $container-tablet !default;
+
+// Medium screen / desktop
+$container-desktop:            ((940px + $grid-gutter-width)) !default;
+$container-md:                 $container-desktop !default;
+
+// Large screen / wide desktop
+$container-large-desktop:      $container-desktop !default;
+$container-lg:                 $container-desktop !default;
+

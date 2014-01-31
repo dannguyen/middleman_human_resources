@@ -1,0 +1,39 @@
+meta:
+  date_entered: "2014-01-13"
+  url: "http://jobs.bloomberg.com/job/New-York-Data-Visualization-Developer-Job-NY/13577500/"
+
+employer: 
+  name: "Bloomberg"
+  homepage: "http://www.bloomberg.com"
+
+position:
+  title: "Data Visualization Developer"
+  type: "Full time"
+
+location: 'New York, NY'
+
+experience:
+  years: 5
+  description: "Qualified candidates will have 5 or more years of experience developing web applications, services, or data visualizations"
+  skills:
+    - name: 'JavaScript'
+    - name: 'HTML'
+    - name: 'CSS'
+    - name: 'Python'
+    - name: 'Ruby'
+    - name: 'Node.js'
+
+blurb: " With Bloomberg's trove of data at your fingertips, you will be delivering consumer facing products"
+
+keywords:
+  - "data-visualization"
+  - "front-end"
+
+description: |
+  We are looking for a data visualization developer to join Bloomberg's Visual Data team. You will be a part of a small group of talented designers and programmers in establishing Bloomberg as a global leader in data visualization. With Bloomberg's trove of data at your fingertips, you will be delivering consumer facing products that emphasize exploration and discovery while engaging and delighting users.
+
+  Examples of Visual Data products:
+  - [Billionaires](http://www.bloomberg.com/billionaires/)
+  - [State-by-State](http://www.bloomberg.com/visual-data/state-by-state/)
+
+  You will be key in selecting the tools, technologies, and development of best practices. You will report to the R&D Head of Visual Data and work closely with designers and editors.

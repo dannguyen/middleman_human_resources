@@ -1,0 +1,40 @@
+meta:
+  date_entered: "2013-12-27"
+  contact:
+    name: "Tim Brower"
+    email: "tbrower@dnps.com"
+  url: "http://www.careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?sc_cmp1=js_jrp_jobclick&APath=2.21.0.0.0&job_did=J3J4MZ6J5Z9GGCC5323&showNewJDP=yes&IPath=QHKV0A"
+  reference: "24749"
+
+employer: 
+  name: "Gannett Digital: Detroit Media Partnership"
+  homepage: "http://www.detroitmedia.com/"
+  domains:
+    - 'detroitmedia.com'
+    - 'gannett.com'
+
+position:
+  title: Digital Developer
+  department: "Innovation & Product Development"
+  type: "Full time"
+  
+
+location: "Detroit, MI"
+
+experience:
+  skills:
+    - name: PHP
+    - name: Python
+    - name: JavaScript
+
+keywords: 
+  - "Product development"    
+blurb: "As a digital developer on the I&PD team, you’ll take part in our ongoing human-centered design process"
+description: |
+  How many news and publishing companies have an innovation and product development team? Right. So, you know what kind of opportunity this is. Which is, well, big.
+
+  The Innovation & Product Development team of the Detroit Media Partnership seeks a digital developer to join the team. Our role is to build an innovation portfolio and pipeline of new products to grow audience, increase engagement and generate new lines of revenue. We are taking an aggressive approach to delivering what users want from media companies, and we are reimagining what a publisher can be.
+
+  As a digital developer on the I&PD team, you’ll take part in our ongoing human-centered design process. You’ll run with the insights gained there to prototype new products. Since your specialties include server-side scripting languages (PHP is awesome, we’re also looking for Python and Django expertise) as well as client-side magic (how many Javascript libraries have you absorbed? Jquery?) you’ll rapidly iterate minimum viable product examples that we’ll be able to test with our colleagues, business partners and users.
+
+  You should have experience in a LAMP environment, get Lean principles, be comfortable in an environment of disruption, and be hungry to reinvent a historic institution. HTML, CSS, Apache, Nginx — hopefully this stuff is all a given.

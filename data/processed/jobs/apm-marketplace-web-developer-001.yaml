@@ -1,0 +1,14 @@
+meta:
+  date_entered: '2014-01-30'
+  contact:
+    name: 'Paul Brent'
+    email: 'pbrent@marketplace.org'
+
+employer: 
+  name: 'APM/Marketplace'
+  homepage: 'http://marketplace.org'
+
+position:
+  title: 'Web Designer/Visual Storyteller'
+
+location: 'Los Angeles, CA'

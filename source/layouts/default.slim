@@ -1,0 +1,33 @@
+html class="no-js"
+  head
+    meta charset="utf-8"
+    meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"
+    meta name="viewport" content="width=device-width,initial-scale=1.0"
+    meta name="description" content=page_description
+    meta name="keywords" content=page_keywords
+
+    title News Nerd Jobs with Middleman Human Resources
+
+    = stylesheet_link_tag 'all'
+    = javascript_include_tag 'vendor/modernizr'
+
+    = partial "partials/layout/typekit"
+    = partial "partials/layout/analytics"
+
+    = yield_content :head
+
+  body
+
+    <!--[if lt IE 8]> 
+      = partial "partials/layout/compatibility-notice" 
+    <![endif]-->
+
+    = partial "partials/layout/header" unless @hide_nav
+
+    div class="container"    
+      = yield    
+
+
+
+    = partial "partials/layout/footer"
+

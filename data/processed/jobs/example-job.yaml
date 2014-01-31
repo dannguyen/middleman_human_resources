@@ -1,0 +1,61 @@
+meta:
+  date_entered: "2014-01-30"
+  contact:
+    name: 'David Brent'
+    email: 'david.brent@wernham.hogg.co.uk'
+  url: "http://www.bbc.co.uk/comedy/theoffice/gareth/"
+
+employer: 
+  name: Wernham Hogg Paper Company
+  homepage: 'http://www.bbc.co.uk/comedy/theoffice/'
+
+position: 
+  title: 'Assistant to the Regional Manager'
+  type: 'Full-time'
+  remote: "Maybe if you have needs."
+
+location: 'Slough, Berkshire, England'
+
+experience:
+  skills:
+    - name: COBOL
+      years: 12
+    - name: Visual Basic
+      level: "Expert"
+    - name: Excel
+      years: 4
+      description: "Must be able to make pivot tables and work with Clippy"
+
+compensation:
+  salary: "400€ - 500€"
+  health_care: "It's universal here"
+  vacation: "2 weeks"
+
+
+keywords:
+  - "Map-reduce"
+  - "CRM"
+
+blurb: "Just a few sentences. No fancy markup or anything"
+description: |
+  I am __Assistant Regional Manager__ at Wernham Hogg, which I personally think is the best paper merchants in Thames Valley area. If you need to buy some paper in bulk, please e-mail me. (No time wasters. I'm too busy.)
+
+  [Markdown](http://daringfireball.net/projects/markdown/) is allowed and will be parsed:
+
+  ## Must have qualities:
+
+  - *Adventurous and energetic*
+  - *Pioneering and courageous* 
+  - *Enthusiastic and confident* 
+  - *Dynamic and quick-witted*
+
+  ### Must like these films:
+
+  - Conan The Barbarian 
+  - F.X. : The Deadly Art of Illusion 
+  - Kickboxer 
+  - Timecop 
+  - Spaceballs
+
+
+

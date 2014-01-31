@@ -1,0 +1,8 @@
+div class="job job-brief"  
+  section class="position"
+    h5 class="employer" = job.employer_name
+    h4 class="title" = link_to job.title, "/jobs/#{job.slug}"
+    div class="blurb" = job.blurb
+
+  section class="locations"
+    = job.locations_string    

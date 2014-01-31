@@ -1,0 +1,22 @@
+meta:
+  date_entered: "2014-01-22"
+  contact:
+    name: "John Cook"
+    email: "john@gawker.com"
+
+employer: 
+  name: "Gawker Media"
+  homepage: "http://gawker.com"
+
+position:
+  title:  "Data reporter/visualization expert"
+  type: "Freelance"
+
+location: "New York, NY"
+
+description: "Looking for someone to identify good stories in data, parse the data in interesting ways, and present the data in a graphically appealing format. In blog posts."
+keywords:
+  - visualization
+  - reporting
+  - data
+

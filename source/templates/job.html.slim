@@ -1,0 +1,12 @@
+article class="job"
+  h1 class="title"
+    = job.title
+  h3 class="employer"
+    = job.employer_name
+
+  div class="locations"
+    = "Locations: #{job.locations.join(', ')}"
+
+  section class="description"
+    = make_markdown job.description
+

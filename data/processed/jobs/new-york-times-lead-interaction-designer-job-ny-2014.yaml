@@ -1,0 +1,34 @@
+meta:
+  date_entered: "2014-01-12"
+  url: "http://jobs.nytco.com/job/New-York-Lead-Interaction-Designer-Job-NY/2652131/"
+  contact:
+    email: "nytdesign@gmail.com"
+
+employer: 
+  name: "New York Times"
+  homepage: "http://www.nytimes.com"
+
+position: 
+  title: "Lead Interaction Designer"
+  department: "Digital Design"
+  type: "Full time"
+
+location: "New York, NY"
+
+experience:
+  description: "All candidates should have a minimum of five years of professional experience in web/application/interaction design. "
+  years: 5
+  skills:
+    - name: "iOS"
+      level: Expert
+    - name: "Android"
+      level: Expert
+
+keywords:
+  - "mobile"
+  - "user-experience"
+
+
+blurb: "Designing the Times' core mobile apps for iOS and Android."
+description: |
+  The Digital Design team is looking for a Lead Interaction Designer to work on The Times' core mobile apps for iOS and Android. The ideal candidate will have a minimum of three years experience designing elegant mobile products and possess a well-rounded, visually-exceptional portfolio that includes examples of smart UX work for fairly complex applications.

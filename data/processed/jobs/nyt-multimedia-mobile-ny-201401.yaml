@@ -1,0 +1,41 @@
+meta:
+  date_entered: "2014-01-14"
+  url: "http://jobs.nytco.com/job/New-York-Mobile-Newsroom-Developer-Job-NY-10001/25529700/"
+  contact:
+    email: "mobile-jobs@nytimes.com"
+
+employer: 
+  name: "New York Times"
+  homepage: "http://www.nytimes.com"
+
+position: 
+  type: "Full time"
+  title: "Mobile Newsroom Developer"
+  department: "Interactive News"
+
+location: "New York, NY"
+
+experience:
+  skills:
+    - name: "HTML"
+      level: Expert
+    - name: "CSS"
+      level: Expert
+    - name: "JavaScript"
+      level: Expert
+    - name: "iOS"
+    - name: "Android"
+
+
+blurb: "Create and support online storytelling tools that will work seamlessly across mobile devices."
+keywords:
+  - "mobile"
+  - "multimedia"
+  - "newsroom"
+  - "front-end"
+description: |
+  The Times is seeking a front-end multimedia developer with experience designing for mobile. This person will work with the newsroom's interactive team and digital platforms team, along with reporters, editors, producers and software developers to create and support online storytelling tools that will work seamlessly across mobile devices.
+
+  The Interactive News team operates like a startup within a large media company, which means that, as a front-end multimedia developer, this person will have an extraordinary amount of creative freedom to explore new ways of presenting the news and the stories behind the news. The Digital Platforms editors are responsible for The New York Times's news report as it extends across multiple devices, and they work closely with the developers of our mobile site and Android, iPhone and iPad apps.
+
+  The job requires solid coding skills and the ability to execute. Also critical is attention to detail, a pride in the quality of one's work and the ability to meet news deadlines.

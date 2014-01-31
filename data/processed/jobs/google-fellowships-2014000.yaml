@@ -1,0 +1,30 @@
+meta:
+  date_entered: "2014-01-01"
+  url: "http://www.google.com/get/journalismfellowship/"
+
+employer: 
+  name: Google
+  homepage: "http://www.google.com/"
+
+position:
+  title: "Google Journalism Fellowships"
+  type: "Fellowship"
+  duration:
+    start: "2014-06-09"
+    end: "2014-08-08"
+
+location: 
+  - "New York, NY"
+  - "Berkeley, CA"
+  - "Columbia, MO"
+  - "Cambridge, MA"
+  - "St. Petersburg, FL"
+  - "Washington, DC"
+  - "Boston, MA"
+  - "Austin, TX"
+
+blurb: "Undergraduate, graduate and journalism students who are interested in using technology to tell stories in new and dynamic ways. "
+description: |
+  In an effort to help develop the next crop of reporters working to keep the world informed, educated and entertained, we have created the Google Journalism Fellowship. As a company dedicated to making the world’s information easily accessible, Google recognizes that behind many blue links is a journalist and that quality journalism is a key ingredient of a vibrant and functioning society.
+
+  The program is aimed at undergraduate, graduate and journalism students interested in using technology to tell stories in new and dynamic ways. The Fellows will get the opportunity to spend the summer contributing to a variety of organizations -- from those that are steeped in investigative journalism to those working for press freedom around the world and to those that are helping the industry figure out its future in the digital age.
