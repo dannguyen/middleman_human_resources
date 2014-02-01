@@ -1,0 +1,57 @@
+meta:
+  date_entered: "2014-01-30"
+  url: "https://jobs.github.com/positions/ac00c0a0-2213-11e3-965c-560b6d8a7cdd"
+  contact:
+    name: 'Alan Karamehmedovic'
+    email: 'Alan_Karamehmedovic@condenast.com'
+
+employer: 
+  name: The New Yorker
+  homepage: 'http://www.newyorker.com'
+  domains:
+    - "newyorker.com"
+    - "condenast.com"
+
+position: 
+  title: 'Backend PHP Developer'
+  type: 'Full-time'
+
+location: 'New York, NY'
+
+experience:
+  skills:
+    - name: PHP
+      level: Expert
+    - name: Unix
+      level: Proficient
+    - name: WordPress
+
+keywords:
+  - "back-end"
+
+blurb: "A person passionate about Web technologies and performance, with the skill to optimize for scalability and speed. Your work matters"
+description: |
+
+  We are looking for a talented and knowledgeable backend developer as we start on a number of new challenging projects. A person passionate about Web technologies and performance, with the skill to optimize for scalability and speed. Your work matters
+
+  The New Yorker offers a signature mix of reporting and commentary. It publishes the best writers of its time and has received more National Magazine Awards than any other magazine, for its groundbreaking reporting, authoritative analysis, and creative inspiration.
+
+  As a backend engineer on The New Yorker technology team you will help create innovative digital products that push the boundaries of how the world’s best journalism is consumed by readers. Ultimately you will be responsible for critical services and applications used by tens of millions of users each month.
+
+  ### Required qualifications:
+  - Architecting systems, and being given the opportunity to pro-actively architect solutions to improve productivity, code quality, scalability
+  - Building software systems and APIs for internal and external consumption
+  - Integrating a diverse set of data sources including relational databases, REST based services, search engines, key/value data stores and XML data
+  - Collaborate with other development teams, building new products in an Agile and iterative development environment
+  - Experience and enthusiasm for working as part of a team
+  
+  ### Bonus qualifications:
+  - Proficiency with Unix/Linux environments
+  - Experience Architecting high traffic systems
+  - Working knowledge of common caching strategies
+  - We're open to technologies that can help get the job done, so past experience outside of the LAMP stack is a welcome addition
+  - Experience with WordPress and plugin development
+  - Contributions to open-source projects
+  
+
+  About Condé Nast Condé Nast is renowned for provocative, influential, award winning content-across brands, across platforms, and across continents. In the United States, Condé Nast publishes 18 consumer magazines, four business-to-business publications, 27 websites, and more than 50 apps for mobile and tablet devices, all of which define excellence in their categories. The company also owns Fairchild Fashion Media (FFM) whose portfolio of brands serves as the leading source of news and analysis for the global fashion community. Condé Nast has won more National Magazine Awards over the past ten years than all of its competitors combined.

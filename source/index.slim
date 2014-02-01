@@ -5,11 +5,11 @@ layout: :home
 
 section class="jobs"
 
-  img src="//placekitten.com/970/400"
+  img src="//placekitten.com/940/400"
 
-  section class="isotope jobs-listing sec"
-    div class="row"
-    - jobs.each do |job|
-      div class="col-sm-4 item"
-        = partial "partials/content/job-brief", locals: {job: job}
+  div class="row sec"
+    section class="isotope jobs-listing"
+      - jobs.each do |job|
+        div class="col-sm-4 item"
+          = partial "partials/content/job-brief", locals: {job: job}
 

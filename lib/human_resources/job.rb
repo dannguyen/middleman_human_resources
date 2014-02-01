@@ -25,6 +25,7 @@ module HumanResources
     # things to be deprecated/moved
     def employer_name; self.employer.name; end
     def title; self.position.title; end
+    def description; self[:description]; end
     def type; self.position.type; end
     def blurb; self[:blurb]; end
   end

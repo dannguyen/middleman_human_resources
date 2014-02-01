@@ -1,0 +1,71 @@
+meta:
+  date_entered: "2014-01-30"
+  url: "http://www.wnyc.org/careers/listings/"
+
+employer: 
+  name: WNYC
+  homepage: 'http://wnyc.org'
+
+position: 
+  title: 'Backend Data Developer - News'
+  department: "Digital Media Group"
+  type: 'Full-time'
+
+location: 'New York, NY'
+
+experience:
+  years: 3
+  description: 'Professional experience in software development'
+  skills:
+    - name: HTML
+      level: Proficient
+    - name: CSS
+      level: Proficient
+    - name: Django
+    - name: Rails
+    - name: Node.js
+    - name: AWS
+    - name: R
+
+keywords:
+  - "back-end"
+  - 'newsroom'
+
+blurb: "Just a few sentences. No fancy markup or anything"
+description: |
+  This position intersects with the news room and NYPR’s digital media group.  You will work hand-in-hand with reporters, producers and editors for WNYC News, The Brian Lehrer Show, New Jersey Public Radio and other news/information services. Under the daily supervision of the Editor of Data News you will help build news visualizations and interactives and the tools that drive its reporting. Reporting to the Director of Digital Technology, you will be a member of an agile team of programmers working on longer-term projects related to data-news gathering and NYPR’s digital experience.
+
+
+  ### RESPONSIBILITIES
+
+ 
+
+  - Participate in conceiving data news visualizations and applications
+  - Find, manage, refine and analyze massive data sets from government and other sources.
+  - Assist with ongoing development to improve WNYC's journalism technologies, including building data tools for journalists.
+  - Help design, architect and build crowd-sourced journalism applications
+  - Work closely with NYPR's developers and digital teams to follow NYPR's best practices and ensure integration across systems.
+  - Write and maintain technical documentation on applications, processes and workflow
+  - Engage in local and open-source communities for javascript/HTML development.
+  - Maintain awareness of industry trends in technology, data news and media. This includes design, content, community, user interfaces and information architecture.
+ 
+
+ 
+
+  ### QUALIFICATIONS
+
+  - Bachelor's degree and three years professional experience in software development
+  - Excellent object-oriented programming skills
+  - HTML5, XML, HTML, CSS, JSON fluency
+  - Django/Python, Rails, and/or Node.js experience
+  - Experience with Amazon Web Services and tools like boto
+  - Knowledge of Web 2.0 technologies including AJAX, social networking, and mobile interfaces
+  - Experience scraping web data or using public APIs to gather data to analyze
+  - Experience working in a newsroom or public-facing media organization with an ability to work efficiently under fast-breaking, deadline conditions and juggle multiple priorities
+  - Ability and eagerness to teach yourself new skills with minimal hand-holding
+  - Ability to work extended hours as needed, including some evenings and weekends, and to be on-call for emergencies and major news events required
+  - Confidence in working with strong, passionate, fast-paced team environment.
+  - Open-source project participation
+  - A public github/gitorious/launchpad/etc portfolio
+  - Experience with statistical software products (SAS, R, SPSS)
+

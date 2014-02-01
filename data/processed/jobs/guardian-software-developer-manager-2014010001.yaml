@@ -1,0 +1,54 @@
+meta:
+  date_entered: "2014-01-30"
+  url: "https://jobs.github.com/positions/41158048-880f-11e3-82ff-dd2a264eb445"
+  reference: 'JB158'
+
+employer: 
+  name: The Guardian
+  homepage: 'http://www.theguardian.com'
+
+
+position: 
+  title: 'Software Developer Manager'
+  type: 'Full-time'
+
+location: 'Kings Cross, London, UK'
+
+experience:
+  skills:
+    - name: Scala
+    - name: JavaScript
+      level: Expert
+    - name: CSS
+      level: Expert
+
+
+keywords:
+  - "management"
+  - "front-end"
+  - "responsive-design"
+
+blurb: "This role sits at the heart of our Software Development team and the majority of your time will be spent doing hands-on software development, working in agile, cross-functional teams."
+description: |
+
+  ### Us
+
+  We’re in the content delivery business. We have a reputation for powerful investigative journalism, a global audience and a passion for community collaboration. We’re reinventing our digital products and we need great engineers to help us and are currently recruiting for a Developer Manager.
+
+  Development of digital products is central to the future of the Guardian. We build the products that showcase our diverse and important journalism. We create the tools that the journalists and editors use to write their stories securely, anywhere from London to Syria. We write the APIs and services that allow those stories to be distributed across the globe. We write the products and interfaces that show off and monetise that content to its maximum potential.
+
+  We mostly program in Scala and Javascript, but we use the best tool that fits the problem. We have hacks in the wild in all manner of languages. Our infrastructure lives on AWS and our own OpenStack private cloud. We encourage product teams to implement, manage and support their own stack. We do our coding in public. Sadly, the same can be said of our karaoke.
+
+  ### The Role
+
+  Managing developers and contributing code to the responsive re-write of www.theguardian.com. We are already serving all mobile traffic and will soon be serving all our readers on the platform. You will be expected to contribute as an expert Front End Developer in Javascript and Responsive CSS. You will need to contribute in scala, AWS and monitoring. The team is responsible for its infrastructure and support, so a small amount of hours support may be required as well as a knowledge of continuous deployment techniques.
+
+  This role sits at the heart of our Software Development team and the majority of your time will be spent doing hands-on software development, working in agile, cross-functional teams. You’ll also be required to line manage others (including mentoring, coaching, training and recruitment) so you'll have experience of this as well as strong stakeholder management skills.
+
+  ### You
+
+  You’ll be a talented Engineer who is, or will be an expert in their chosen field and has a strong interest in all software engineering disciplines. You’ll have proven experience in a technical lead capacity as well as ability to work independently
+
+  You’ll be a passionate, intelligent human being who loves technology. You might love the news, or you might want to reinvent it. You like inspiring the people you work with and being inspired by them in return. You’ll be a natural leader who can build and develop team confidence and abilities. You have experience of getting stuff done.
+
+  We welcome applications from any individuals regardless of ethnic origin, gender, disability, religious belief, sexual orientation or age. All applications will be considered on merit.

@@ -4,9 +4,46 @@ article class="job"
   h3 class="employer"
     = job.employer_name
 
-  div class="locations"
-    = "Locations: #{job.locations.join(', ')}"
+  section class="sec"
+    div class="row"
 
-  section class="description"
-    = make_markdown job.description
+      div class="col-sm-8"
+        
+        div class="blurb"
+          h3 Blurb
+          p = job.blurb
+
+        section class="experience sec"
+          div class="skills sec"
+            h3 Required Skills
+
+            table class="table table-striped"
+              thead
+                tr
+                  th Name
+                  th Level
+                  th Description
+              tbody              
+                - job.experience.skills.each do |skill|
+                   tr 
+                    td = skill.name
+                    td = skill.level
+                    td = skill.description
+
+              
+
+        section class="description sec"
+          h3 Full Description
+          = make_markdown job.description
+
+
+
+      div class="col-sm-4"
+        div class="locations"
+          = "Locations: #{job.locations.join(', ')}"
+
+
+
+
+
 

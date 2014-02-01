@@ -1,0 +1,67 @@
+meta:
+  date_entered: "2014-01-30"
+  url: "https://jobs.github.com/positions/bf499384-2214-11e3-9545-95a0979559a3"
+  contact:
+    name: 'Alan Karamehmedovic'
+    email: 'Alan_Karamehmedovic@condenast.com'
+
+employer: 
+  name: The New Yorker
+  homepage: 'http://www.newyorker.com'
+  domains:
+    - "newyorker.com"
+    - "condenast.com"
+
+position: 
+  title: 'Frontend Engineer'
+  type: 'Full-time'
+
+location: 'New York, NY'
+
+experience:
+  skills:
+    - name: Javascript
+      level: "Expert"
+    - name: jQuery
+      level: "Expert"
+    - name: CSS
+      level: "Expert"
+    - name: Mobile design
+      level: "Expert"
+    - name: HTML
+      level: "Proficient"
+    - name: WordPress
+    - name: PHP
+
+keywords:
+  - "front-end"
+
+blurb: "A person passionate about web technologies, performance, RESTful APIs - and playing with new ideas that have yet to hit mainstream"
+description: |
+  We are looking for a talented and knowledgeable frontend engineer. A person passionate about web technologies, performance, RESTful APIs - and playing with new ideas that have yet to hit mainstream. Your work matters
+
+  The New Yorker offers a signature mix of reporting and commentary. It publishes the best writers of its time and has received more National Magazine Awards than any other magazine for its groundbreaking reporting, authoritative analysis, and creative inspiration.
+
+  As a frontend engineer on The New Yorker technology team you will help create innovative digital products that push the boundaries of how the world’s best journalism is consumed by readers. Ultimately you will be responsible for creating and maintaining innovative interfaces used by tens of millions of users each month.
+
+
+  Required qualifications:
+
+  - Solid understanding of MVC approach to frontend architecture
+  - Expert in hand written and framework based mobile first, adaptive CSS
+  - Expert in vanilla JavaScript, libraries like jQuery and DOM APIs
+  - Solid understanding of advanced HTML5 and other features of modern web applications
+  - Experience with latest community defined Web performance principles and tools to implement them
+  
+  Bonus qualifications:
+  - Solid understanding of REST principles and experience using REST APIs
+  - Experience with WordPress
+  - Working knowledge of LAMP stack, specifically PHP
+  - Ability to write usable documentation
+  - Contributions to open-source projects
+  
+  ### About Condé Nast 
+  Condé Nast is renowned for provocative, influential, award winning content-across brands, across platforms, and across continents. In the United States, Condé Nast publishes 18 consumer magazines, four business-to-business publications, 27 websites, and more than 50 apps for mobile and tablet devices, all of which define excellence in their categories. The company also owns Fairchild Fashion Media (FFM) whose portfolio of brands serves as the leading source of news and analysis for the global fashion community. Condé Nast has won more National Magazine Awards over the past ten years than all of its competitors combined.
+
+
+     

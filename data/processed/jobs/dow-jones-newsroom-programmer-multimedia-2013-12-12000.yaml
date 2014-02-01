@@ -1,0 +1,48 @@
+meta:
+  date_entered: "2013-12-12"
+  url: "https://newscorp.taleo.net/careersection/djexternal/jobdetail.ftl?lang=en&job=100012249"
+  
+employer: 
+  name: "Wall Street Journal"
+  homepage: "http://wsj.com"
+
+position:
+  title:  "Newsroom Programmer / Multimedia Editor"
+  type: "Full-time"
+
+location: "Hong Kong"
+keywords:
+  - newsroom
+  - multimedia
+
+experience:
+  skills:
+    - name: Photoshop
+      level: Proficient
+    - name: Illustrator
+      level: Proficient
+    - name: HTML
+      level: Proficient
+    - name: CSS
+      level: Proficient
+    - name: JavaScript
+      level: Proficient
+    - name: jQuery
+      level: Preferred
+    - name: PHP
+      level: Preferred
+    - name: MySQL
+      level: Preferred
+    - name: Django
+      level: Preferred
+    - name: Python
+      level: Preferred
+
+description: |
+  The Wall Street Journal is looking for a newsroom programmer to research and develop multimedia projects for WSJ.com. The ideal candidate is a newshound with a love of visual storytelling backed by strong technical skills. Based in Hong Kong, you’ll have the opportunity to work with a top-notch team of reporters, editors, graphics editors and programmers throughout Asia and in New York. Your work – from long-term investigative pieces to real time news coverage – will be viewed by a daily audience of millions.
+
+  The successful candidate must have strong attention to detail, a strict commitment to integrity and accuracy in their work, good organizational, research and communication skills, and experience in journalism. High level of proficiency in Photoshop, Illustrator, XML/HTML, CSS and Javascript required. Candidates with experience developing web applications using Javascript (particularly jQuery and Raphael, others a plus), PHP, MySQL, Django, Python and other frameworks strongly preferred.
+
+
+  
+

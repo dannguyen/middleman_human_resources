@@ -1,0 +1,45 @@
+meta:
+  date_entered: "2014-01-06"
+  url: "https://jobs.github.com/positions/ae12f3ee-76dd-11e3-9894-34014695bb4f"
+
+employer: 
+  name: CBS Interactive
+  homepage: 'http://www.cbsinteractive.com'
+  domains:
+    - 'www.cbsinteractive.com'
+    - 'cbs.com'
+    - 'cbssports.com'
+    - 'cnet.com'
+    - 'gamespot.com'
+
+position: 
+  title: 'iOS Senior Software Engineer'
+  type: 'Full-time'
+
+location: "San Francisco, CA"
+
+experience:
+  education:
+    degree: "Computer Science or Equivalent"
+    level: "Bachelor"    
+  skills:
+    - name: Objective C
+      level: Expert
+    - name: Technical writing
+    - name: Java
+      level: Preferred
+    - name: JavaScript
+      level: Preferred
+
+
+keywords:
+  - "iOS"
+  - "multimedia"
+
+blurb: "The IOS Software Engineer (ISE) will be an integral part of the Video Technology team, helping to build and release frameworks for the Apple IOS environments."
+description: |
+  The IOS Software Engineer (ISE) will be an integral part of the Video Technology team, helping to build and release frameworks for the Apple IOS environments. The ideal candidate will be very familiar with the current state of online digital video delivery across mobile web, iOS Apps. The ISE will have deep experience doing full-cycle development, including coding, building and distributing IOS Apps/Frameworks using ObjectiveC, Xcode, TestFlight GIT, etcmso-fareast-language Additionally, ISE will be responsible for developing technical design documentation and working closely with the QA coordinator to facilitate testing in the mobile environments.
+
+
+
+

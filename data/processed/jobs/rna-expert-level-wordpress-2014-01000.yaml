@@ -1,0 +1,70 @@
+meta:
+  date_entered: "2014-01-30"
+  url: "http://www.rna.org/?page=Job_Notice_RNS"
+
+employer: 
+  name: Religious News Service
+  homepage: 'http://rna.org'
+  
+
+position: 
+  title: 'Expert Level WordPress Developer'
+  type: 'Full-time'
+  remote: "Flexible"
+
+location: 'Columbia, MO'
+
+experience:
+  skills:
+    - name: PHP
+      level: "Expert"
+    - name: WordPress
+      level: Expert
+    - name: HTML
+      level: Proficient
+    - name: CSS
+      level: Proficient
+    - name: JavaScript
+      level: Proficient
+
+stack:
+  - Apache
+  - nginx
+  - PHPUnit
+  - MySQL
+  - Tarbell
+  - Django
+  - Jekyll
+  - AWS
+  - Git
+
+
+keywords:
+  - "front-end"
+  - "back-end"
+
+blurb: "Nonprofit news organization seeks multi-talented web developer with expert-level developer skill with WordPress. Customer-oriented individual and a familiarity with the journalism profession required"
+description: |
+  Nonprofit news organization (Religion News Service and affiliated sites) seeks multi-talented web developer with expert-level developer skill with WordPress. Customer-oriented individual and a familiarity with the journalism profession required. Flexible hours, work location and full benefits are included with this position.   
+
+  ## Job description
+
+  ### Primary responsibilities
+
+  * Build new frontend and backend functionality, and maintain and update existing functionality, on all LLC websites. You will be responsible for all of the PHP, HTML, CSS, JavaScript, and whatever-other-languages-you-choose that run our sites
+  * Manage integrations with third-party services, such as payment processors and advertising servers
+  * Provide technical support to staff, subscribers, and readers
+  * Find tools and services to meet the needs of our staff, or quickly learn to use the ones they suggest
+
+  ### Required technical skills
+
+  * Extensive experience developing WordPress plugins and themes. Experience with WordPress Multisite also strongly recommended
+  * Experience with frontend technologies including CSS preprocessors and build tools
+  * Comfort with the command line and Git
+  * Familiarity with server management over SSH
+
+  ### Very helpful technical skills
+
+  * Familiarity with Apache, nginx, PHPUnit, MySQL, DNS management, SSL certificates, 
+  * Some experience with Tarbell, Django, and Jekyll
+  * Familiarity with Amazon Web Services; Google AdSense and DoubleClick for Publishers; Stripe; Braintree; PayPal; Google Analytics; GitHub; Beanstalk; Pivotal Tracker; LastPass; cPanel
